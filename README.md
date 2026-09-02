@@ -30,7 +30,7 @@
 * **Ana Dil:** `PHP`
 * **Diğer Diller ve Web:** `JavaScript` | `TypeScript` | `Python` | `PowerShell` | `HTML` | `CSS` | `SQL`
 * **Veritabanları:** `MariaDB` | `MySQL` | `SQLite`
-* **Altyapı & Analiz:** `Linux (Arch / Ubuntu)` | `OSINT & Tehdit İstihbaratı Araçları` | `REST API'ler`
+* **Altyapı & Analiz:** `WSL (Arch / Ubuntu)` | `OSINT & Tehdit İstihbaratı Araçları` | `REST API'ler`
 
 ### **Bağlantı & İletişim**
 
@@ -63,7 +63,7 @@
 * **Core Language:** `PHP`
 * **Other Languages & Web:** `JavaScript` | `TypeScript` | `Python` | `PowerShell` | `HTML` | `CSS` | `SQL`
 * **Databases & Storage:** `MariaDB` | `MySQL` | `SQLite`
-* **Infrastructure & Analysis:** `Linux (Arch / Ubuntu)` | `OSINT & Threat Intel Tools` | `REST APIs`
+* **Infrastructure & Analysis:** `WSL (Arch / Ubuntu)` | `OSINT & Threat Intel Tools` | `REST APIs`
 
 ### **Connect & Contact**
 
